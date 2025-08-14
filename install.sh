@@ -26,7 +26,7 @@ echo " > Directory $DOTFILES_DIR already exists. Updating..."
 cd "$DOTFILES_DIR" || exit
 git pull
 else
-git clone --depth=1 "$DOTFILES_REPO" "$DOTFILES_DIR" || { echo "Failed to clone repository. Check URL."; exit 1; }
+git clone --branch testing --depth=1 "$DOTFILES_REPO" "$DOTFILES_DIR" || { echo "Failed to clone repository. Check URL."; exit 1; }
 cd "$DOTFILES_DIR" || exit
 fi
 echo "Cloning completed."
