@@ -1,0 +1,77 @@
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.#*
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Log files
+*.log
+
+# Cache and runtime files
+cache/
+.cache/
+runtime/
+*.pid
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Personal/sensitive files
+secrets/
+private/
+personal/
+.env
+.env.local
+
+# Application specific ignores
+# Hyprland
+hypr/hyprland.conf.bak
+hypr/*.log
+
+# Waybar
+waybar/config.bak
+waybar/style.css.bak
+
+# Shell history and local configs
+.bash_history
+.zsh_history
+.local_config
+
+# Dependencies and build artifacts
+node_modules/
+*.o
+*.so
+*.dylib
+
+# Archive files (unless specifically needed)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Test files
+test/
+tests/
+*.test
+
+# Documentation build files
+docs/_build/
+site/
