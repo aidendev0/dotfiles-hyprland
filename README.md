@@ -20,7 +20,7 @@ This dotfiles repository includes configurations for:
 
 ### Quick Install
 
-    ⚠️ Important: The project requires Curl to install.
+> **⚠️ Important:** The project requires Curl to and Git install.
 
 ```bash
 curl -o install.sh https://raw.githubusercontent.com/aidendev0/dotfiles-hyprland/testing/install.sh
