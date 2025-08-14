@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOTFILES_REPO="https://github.com/aidendev0/dotfiles-hyprland/tree/testing"
+DOTFILES_REPO="https://github.com/aidendev0/dotfiles-hyprland/"
 TEMP_DIR="$HOME/dotfiles-temp"
 DOTFILES_DIR="$HOME/.dotfiles"
 
