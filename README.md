@@ -3,7 +3,7 @@
 Personal dotfiles configuration for Hyprland desktop environment on Linux.
 
 ## Screenshots
-<p align="center"> <img src="https://raw.githubusercontent.com/aidendev0/dotfile-hyprland/testing/screenshots/screenshot_1.png" alt="Screenshot" width="600"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/aidendev0/dotfiles-hyprland/refs/heads/testing/screenshots/screenshot_1.png" alt="Screenshot" width="600"> </p>
 <p align="center"> <img src="https://raw.githubusercontent.com/aidendev0/dotfiles-hyprland/testing/screenshots/screenshot_2.png" alt="Screenshot" width="600"> </p>
 
 ## Features
