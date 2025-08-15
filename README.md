@@ -23,7 +23,7 @@ This dotfiles repository includes configurations for:
 > **⚠️ Important:** The project requires Curl to and Git install.
 
 ```bash
-curl -o install.sh https://raw.githubusercontent.com/aidendev0/dotfiles-hyprland/testing/install.sh
+curl -o install.sh https://raw.githubusercontent.com/aidendev0/dotfiles-hyprland/stable/install.sh
 chmod +x install.sh
 ./install.sh
 rm install.sh
