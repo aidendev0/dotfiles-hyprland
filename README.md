@@ -19,14 +19,8 @@ This dotfiles repository includes configurations for:
 
 ### Quick Install
 
-> **⚠️ Important:** The project requires Curl to and Git install.
+Just arrange the files according to the repository structure. Most configuration files should be located in ~/.config/. (Install scripts are unstable)
 
-```bash
-curl -o install.sh https://raw.githubusercontent.com/aidendev0/dotfiles-hyprland/stable/install.sh
-chmod +x install.sh
-./install.sh
-rm install.sh
-```
 ## License
 
 This project is licensed under the GPLv3 - see the LICENSE file for details.
