@@ -19,7 +19,7 @@ This dotfiles repository includes configurations for:
 
 ### Quick Install
 
-Just arrange the files according to the repository structure. Most configuration files should be located in ~/.config/. (Install scripts are unstable)
+Just arrange the files according to the repository structure. Most configuration files should be located in `~/.config/`. (Install scripts are unstable)
 
 ## License
 
